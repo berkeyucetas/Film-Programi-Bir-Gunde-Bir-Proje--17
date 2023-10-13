@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\bin\Debug\Film Programı.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\bin\Debug\Film Programı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\bin\Debug\Film Programı.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film_Programı.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film_Programı.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Film Programı\Film Programı\obj\Debug\Film Programı.pdb
